@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Genshin Char</string>
+    <string name="about">About</string>
+    <string name="dummyvision">Vision: Geo</string>
+    <string name="dummyaffil">Affiliation: Knight of Favonius</string>
+    <string name="birthday">Birthday:</string>
+    <string name="dummybirth">18/04</string>
+    <string name="weapon">Weapon:</string>
+    <string name="dummyweapon">Sword</string>
+    <string name="intro">Intro</string>
+    <string name="dummyintro">Albedo — an alchemist based in Mondstadt, in the service of the Knights of Favonius.</string>
+</resources>
